@@ -1,0 +1,16 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "dimension": 384,
+  "total_vectors": 547,
+  "total_chunks": 547,
+  "metadata_fields": [
+    "text",
+    "department",
+    "source_file",
+    "source_path",
+    "page",
+    "chunk"
+  ]
+}
